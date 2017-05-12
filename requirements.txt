@@ -1,0 +1,4 @@
+scrapy
+extruct
+w3lib
+jinja2
